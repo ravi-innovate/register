@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "ravi-innovate"
+        "username": "ravi-innovate",
+        "Email": "ravikumarmali.dev@gmail.com"
     },
     "records": {
         "CNAME": "ravi-innovate-portfolio.vercel.app"
